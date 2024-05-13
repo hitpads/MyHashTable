@@ -30,7 +30,6 @@ public class Main {
         binaryTree.delete_tree();
         binaryTree.is_empty();
 
-
         binaryTree.height();
     }
 }
